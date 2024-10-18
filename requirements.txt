@@ -76,22 +76,6 @@ prometheus_client==0.20.0
 prompt_toolkit==3.0.47
 psutil==6.0.0
 pure-eval==0.2.2
-PyAudio==0.2.14
-pycparser==2.22
-pygame==2.5.2
-Pygments==2.18.0
-pyinstaller @ https://github.com/pyinstaller/pyinstaller/tarball/develop#sha256=74254e7f300196b4ef9b6815175d871fbe7fefa6f03d8502355197fc8076ae32
-pyinstaller-hooks-contrib==2024.7
-pyparsing==3.1.2
-pysubs2==1.6.1
-python-dateutil==2.9.0.post0
-python-json-logger==2.0.7
-pytz==2024.1
-pywin32==306
-pywin32-ctypes==0.2.2
-pywinpty==2.0.13
-PyYAML==6.0.1
-pyzmq==26.0.3
 referencing==0.35.1
 requests==2.32.3
 rfc3339-validator==0.1.4
