@@ -84,8 +84,6 @@ PyAudio==0.2.14
 pycparser==2.22
 pygame==2.5.2
 Pygments==2.18.0
-pyinstaller-hooks-contrib==2024.7
-pywin32==306
 pywin32-ctypes==0.2.2
 pywinpty==2.0.13
 PyYAML==6.0.1
