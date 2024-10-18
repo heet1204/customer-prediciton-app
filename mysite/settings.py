@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-4&f75wn7hotzd457k^q4to$*ez21k2r=c@n-t_3*jd&6ol%nwp
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://customer-revenue-app-7197da83e282.herokuapp.com/', '127.0.0.1']
+ALLOWED_HOSTS = ['https://flask-deploy-customer-1f5f9d4dae4c.herokuapp.com/', '127.0.0.1']
 
 
 # Application definition
